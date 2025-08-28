@@ -1,4 +1,4 @@
-program contar_numeros
+program exercicio01_contar_numeros
     implicit none
     integer :: vetor(100)
     integer :: i, num, qtd1, qtd3, qtd4
@@ -24,4 +24,4 @@ program contar_numeros
     print *, "Quantidade de 3: ", qtd3
     print *, "Quantidade de 4: ", qtd4
 
-end program contar_numeros
+end program exercicio01_contar_numeros
