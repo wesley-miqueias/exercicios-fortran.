@@ -1,5 +1,4 @@
-# Ignorar executáveis e arquivos temporários
-separa_numero
-*.out
+programa_simples
 *.o
-*.mod
+
+
